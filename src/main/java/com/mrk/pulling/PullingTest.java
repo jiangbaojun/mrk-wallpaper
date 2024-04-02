@@ -26,8 +26,8 @@ public class PullingTest {
 
 
     public static void main(String[] args) {
-//        String LOCAL_PATH = "D:/personal/photo_focus/wallpaper/";
-        String LOCAL_PATH = "C:/Users/BaojunJiang/Desktop/1/";
+        String LOCAL_PATH = "D:/personal/photo_focus/wallpaper/";
+//        String LOCAL_PATH = "C:/Users/BaojunJiang/Desktop/1/";
         if(args!=null && args.length==1){
             LOCAL_PATH = args[0];
         }
